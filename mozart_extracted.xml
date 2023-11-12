@@ -23,24 +23,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,839E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,788E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,421E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,116E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,469E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,812E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -67,24 +67,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,466E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,005E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,679E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>1,988E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,584E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,476E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -111,24 +111,24 @@
 			<v>5,2E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,177E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>6,766E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,179E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,333E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,494E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,905E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -155,24 +155,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,751E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,71E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,448E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,515E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,546E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,873E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -199,24 +199,24 @@
 			<v>5,2E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,869E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,827E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,5E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,225E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,311E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,67E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -243,24 +243,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,798E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,375E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,322E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,304E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,512E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,494E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -287,24 +287,24 @@
 			<v>4,4E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,213E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,091E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,74E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,273E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,28E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>5E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,356E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -331,24 +331,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,103E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,938E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,643E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,124E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,531E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,99E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -375,24 +375,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,712E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,607E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,873E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>4E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,575E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,451E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,606E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -419,24 +419,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,228E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,135E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,257E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,019E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,525E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,97E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -463,24 +463,24 @@
 			<v>4,9E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,957E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,077E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,243E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>4E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,209E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,417E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>3E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>6E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,064E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -507,24 +507,24 @@
 			<v>4,4E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,273E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,062E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>6,627E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,378E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,489E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,01E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -551,24 +551,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,772E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,769E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,729E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,151E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,357E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>6E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,547E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -595,24 +595,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,127E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,911E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>6,522E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,176E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,468E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,915E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -639,24 +639,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,661E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,352E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,043E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,296E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,461E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,404E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -683,24 +683,24 @@
 			<v>4,9E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,779E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,745E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,342E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,997E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,431E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,257E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -727,24 +727,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,979E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,158E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,69E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,771E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,496E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,067E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -771,24 +771,24 @@
 			<v>4,7E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,049E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,886E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,324E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,182E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,336E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>2E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,174E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -815,24 +815,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,546E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,783E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,091E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,907E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,457E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>3,401E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -859,24 +859,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,569E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,759E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,545E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,028E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,447E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>2E0</v>
+			<name>Chromatic Motion</name>
+			<v>3,429E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -903,24 +903,24 @@
 			<v>5,3E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,99E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,383E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,049E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,391E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,5E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,406E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -947,24 +947,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,506E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,863E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,236E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,04E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,427E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>2E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,47E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -991,24 +991,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,506E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,863E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,236E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,04E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,427E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>2E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,47E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1035,24 +1035,24 @@
 			<v>5,2E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,921E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,239E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,2E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,132E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,364E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,318E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1079,24 +1079,24 @@
 			<v>4,5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,18E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,817E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,925E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>1,9E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,584E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,21E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1123,24 +1123,24 @@
 			<v>4,6E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,073E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,476E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,282E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,509E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,32E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1167,24 +1167,24 @@
 			<v>4,5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,092E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,582E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,487E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,812E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,32E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>3,271E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1211,24 +1211,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,799E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,818E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,167E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,292E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,539E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,879E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1255,24 +1255,24 @@
 			<v>5,2E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,99E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,441E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,375E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,485E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,463E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,174E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1299,24 +1299,24 @@
 			<v>4,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,073E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,015E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>6,954E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,073E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,338E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,742E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1343,24 +1343,24 @@
 			<v>4,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,121E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,412E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,551E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,793E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,472E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,929E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1387,24 +1387,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,702E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,692E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,899E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,451E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>5E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,948E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1431,24 +1431,24 @@
 			<v>5,3E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,548E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,435E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,618E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,056E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,307E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,738E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1475,24 +1475,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,27E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,917E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,421E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,408E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,37E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,203E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1519,24 +1519,24 @@
 			<v>4,5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,992E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,548E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,537E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,249E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,338E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>3E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>5E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,221E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1563,24 +1563,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,963E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,545E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,436E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,36E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,537E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,882E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1607,24 +1607,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,17E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,86E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>6,937E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,298E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,296E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>2E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,311E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1651,24 +1651,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,678E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,725E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,429E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,061E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,555E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,4E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1695,24 +1695,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,18E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,658E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,529E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,386E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,32E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,817E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1739,24 +1739,24 @@
 			<v>5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,918E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,056E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,831E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,089E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,489E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,323E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1783,24 +1783,24 @@
 			<v>5,3E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,661E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,589E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,826E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,965E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,367E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,45E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1827,24 +1827,24 @@
 			<v>5,2E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,533E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,682E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,693E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,665E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,482E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>3,012E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1871,24 +1871,24 @@
 			<v>5,3E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,803E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,649E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,322E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,777E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,3E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,361E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1915,24 +1915,24 @@
 			<v>5,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,666E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,027E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,111E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,189E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,418E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,279E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -1959,24 +1959,24 @@
 			<v>5,5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,898E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,663E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,98E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,374E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,459E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,828E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2003,24 +2003,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,683E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,489E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,261E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,049E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,325E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,17E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2047,24 +2047,24 @@
 			<v>5,5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,681E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,55E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>8,882E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,391E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,547E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,123E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2091,24 +2091,24 @@
 			<v>5,3E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,89E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,509E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>6,359E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,202E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,455E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,378E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2135,24 +2135,24 @@
 			<v>5,5E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,288E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>5,753E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,481E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,567E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,324E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,139E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2179,24 +2179,24 @@
 			<v>5,3E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,877E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,443E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,713E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,404E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,461E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,856E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2223,24 +2223,24 @@
 			<v>5,7E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,727E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,609E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,537E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,767E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,333E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>5E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,725E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2267,24 +2267,24 @@
 			<v>5,7E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,692E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,69E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,535E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,625E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,56E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>0E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,247E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2311,24 +2311,24 @@
 			<v>5,6E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,668E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,864E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,147E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>2,648E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,281E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,191E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2355,24 +2355,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,735E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,648E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,514E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,201E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,434E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,574E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2399,24 +2399,24 @@
 			<v>5,7E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,926E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,522E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,756E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,155E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,53E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>5E0</v>
+			<name>Chromatic Motion</name>
+			<v>2,108E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2443,24 +2443,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,56E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,74E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>1E0</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3,942E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,49E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>1E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,619E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2487,24 +2487,24 @@
 			<v>5,6E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>2,062E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,619E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,043E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,208E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,401E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,581E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2531,24 +2531,24 @@
 			<v>5,1E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,637E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,649E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>9,112E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>8E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>4,181E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,459E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>4E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,891E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>
@@ -2575,24 +2575,24 @@
 			<v>5,8E1</v>
 		</feature>
 		<feature>
-			<name>Prevalence of Most Common Pitch Class</name>
-			<v>1,677E-1</v>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,982E-1</v>
 		</feature>
 		<feature>
-			<name>Relative Prevalence of Top Pitches</name>
-			<v>7,243E-1</v>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Pitch Class Variability After Folding</name>
-			<v>3E0</v>
+			<name>Pitch Class Variability</name>
+			<v>3,596E0</v>
 		</feature>
 		<feature>
 			<name>Most Common Melodic Interval</name>
 			<v>2E0</v>
 		</feature>
 		<feature>
-			<name>Number of Common Melodic Intervals</name>
-			<v>3E0</v>
+			<name>Chromatic Motion</name>
+			<v>1,562E-1</v>
 		</feature>
 		<feature>
 			<name>Stepwise Motion</name>

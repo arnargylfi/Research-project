@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-tree = ET.parse('beethoven_extracted.xml')
+tree = ET.parse('mozart_extracted.xml')
 root = tree.getroot()
 
 data_list = []
@@ -17,4 +17,5 @@ df = pd.DataFrame(data_list)
 df = df.apply(lambda x: x.str.replace(',', '.').str.replace('E', 'e', case=False))
 
 df.to_csv('cleaned_data.csv', index=False,sep = ";")
+
 

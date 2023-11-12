@@ -154,7 +154,7 @@ class ComposerClassTrainer:
             split_train_test(features, targets, train_ratio)
 
         self.classes = classes
-        self.tree = DecisionTreeClassifier(max_depth=3)
+        self.tree = DecisionTreeClassifier(max_depth=3,min_samples_split=5)
 
     def train(self):
         self.tree.fit(self.train_features, self.train_targets)
@@ -194,7 +194,7 @@ dt.train()
 print(classes)
 print(f'The accuracy is: {dt.accuracy()}')
 dt.plot()
-print(f'I guessed: {dt.guess()[:10]}')
+print(f'I guessed: {dt.guess()}')
 print(f'The true targets are: {dt.test_targets}')
 print(dt.confusion_matrix())
 
