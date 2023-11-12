@@ -17,11 +17,11 @@ data = df.to_numpy(dtype=float)
 targets = data[:,0]
 classes = np.unique(targets, return_counts=False)
 features = data[:,1:]
-print(features)
+# print(features)
 
 
 def split_train_test(features: np.ndarray, targets: np.ndarray,
-    train_ratio:float=0.8) -> Union[tuple, tuple]:
+    train_ratio:float=0.7) -> Union[tuple, tuple]:
     '''
     Shuffle the features and targets in unison and return
     two tuples of datasets, first being the training set,
@@ -68,7 +68,7 @@ def split_data(
     targets_2 = targets[mask_2]
 
     return (features_1, targets_1), (features_2, targets_2)
-(f_1, t_1), (f_2, t_2) = split_data(features, targets, 8, 0.09)
+# (f_1, t_1), (f_2, t_2) = split_data(features, targets, 8, 0.09)
 # print((f_2[:,8], t_2))
 def gini_impurity(targets: np.ndarray, classes: list) -> float:
     '''
@@ -84,7 +84,7 @@ def weighted_impurity(
     t2: np.ndarray,
     classes: list
 ) -> float:
-    '''
+    ''' 
     Given targets of two branches, return the weighted
     sum of gini branch impurities
     '''
@@ -143,7 +143,7 @@ class ComposerClassTrainer:
         features: np.ndarray,
         targets: np.ndarray,
         classes: list = [0, 1, 2], 
-        train_ratio: float = 0.8
+        train_ratio: float = 0.7
     ):
         '''
         train_ratio: The ratio of the dataset that will
@@ -154,7 +154,7 @@ class ComposerClassTrainer:
             split_train_test(features, targets, train_ratio)
 
         self.classes = classes
-        self.tree = DecisionTreeClassifier(max_depth=3,min_samples_split=5)
+        self.tree = DecisionTreeClassifier(max_depth=3,min_samples_split=5,min_samples_leaf=5)
 
     def train(self):
         self.tree.fit(self.train_features, self.train_targets)
@@ -166,8 +166,10 @@ class ComposerClassTrainer:
         acc = accuracy_score(self.test_targets, predictions)
         return acc
     def plot(self):
-        plt.figure(figsize=(12, 6))  # Adjust the figure size as needed
-        plot_tree(self.tree, filled=True,class_names=["Bach","Beethoven","Mozart"],feature_names=list(df.columns[1:]))
+        plt.figure(figsize=(20, 10))  # Adjust the figure size as needed
+        plot_tree(self.tree, filled=True,
+                  class_names=["Bach","Beethoven","Mozart"],
+                  feature_names=list(df.columns[1:]))
         plt.show()
     def guess(self):
         # Make predictions on the test data features
@@ -191,10 +193,8 @@ class ComposerClassTrainer:
         return confusion_matrix
 dt = ComposerClassTrainer(features, targets, classes=classes)
 dt.train()
-print(classes)
 print(f'The accuracy is: {dt.accuracy()}')
-dt.plot()
 print(f'I guessed: {dt.guess()}')
 print(f'The true targets are: {dt.test_targets}')
 print(dt.confusion_matrix())
-
+dt.plot()
