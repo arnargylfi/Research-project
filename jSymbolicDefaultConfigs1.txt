@@ -1,0 +1,91 @@
+<jSymbolic_options>
+window_size=0.0
+window_overlap=0.0
+save_features_for_each_window=false
+save_overall_recording_features=true
+convert_to_arff=true
+convert_to_csv=true
+<features_to_extract>
+Range
+Relative Prevalence of Top Pitch Classes
+Interval Between Most Prevalent Pitch Classes
+Pitch Class Variability
+Most Common Melodic Interval
+Chromatic Motion
+Stepwise Motion
+Vertical Dissonance Ratio
+Diminished and Augmented Triads
+Note Density Variability
+<input_files>
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\N6b.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\quartet01-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata01-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata01-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata01-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata01-4.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata03-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata03-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata03-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata03-4.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata04-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata04-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata04-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata04-4.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata05-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata05-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata06-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata06-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata06-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata08-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata08-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata08-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata09-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata09-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata09-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata10-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata10-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata10-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata11-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata11-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata11-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata12-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata12-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata12-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata15-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata15-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata15-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata15-4.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata16-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata16-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata19-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata19-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata20-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata20-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata25-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata25-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata25-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata26-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata26-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata26-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata27-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata27-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata28-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata28-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata28-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata29-2.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata29-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata30-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata31-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata31-3.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\sonata32-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\swiss-0.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\swiss-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\symph5-1.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\tmte04-63b.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\tmte04-63c.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\tmte04-63g.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\tmte04-63i.mid
+C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Beethoven MIDI\tmte04-63o.mid
+<output_files>
+feature_values_save_path=C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\beethoven_extracted.xml
+feature_definitions_save_path=./feature_definitions.xml

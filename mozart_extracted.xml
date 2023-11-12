@@ -1,0 +1,2615 @@
+<?xml version="1.0"?>
+<!DOCTYPE feature_vector_file [
+   <!ELEMENT feature_vector_file (comments, data_set+)>
+   <!ELEMENT comments (#PCDATA)>
+   <!ELEMENT data_set (data_set_id, section*, feature*)>
+   <!ELEMENT data_set_id (#PCDATA)>
+   <!ELEMENT section (feature+)>
+   <!ATTLIST section start CDATA ""
+                     stop CDATA "">
+   <!ELEMENT feature (name, v+)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT v (#PCDATA)>
+]>
+
+<feature_vector_file>
+
+   <comments></comments>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k080-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,839E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,421E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,116E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,422E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,369E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,846E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,115E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k080-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,466E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,679E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>1,988E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,133E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>8,876E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,255E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>4,581E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k080-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,2E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,177E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,179E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,333E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,53E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>7,381E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,814E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,115E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k080-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,751E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,448E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,515E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,606E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,158E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,525E-3</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,994E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k155-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,2E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,869E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,5E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,225E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,937E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,257E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,776E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,472E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k155-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,798E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,322E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,304E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,507E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,652E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,244E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,343E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k155-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,213E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,74E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,273E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,456E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,249E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,63E-3</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,634E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k156-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,103E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,643E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,124E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,732E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,384E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,748E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,378E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k156-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,712E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,873E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,575E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,005E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,798E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,844E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,658E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k157-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,228E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,257E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,019E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,481E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,298E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,019E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,403E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k157-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,9E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,957E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,243E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,209E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>6E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,364E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,1E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>9,478E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,218E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k157-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,273E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>6,627E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,378E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,043E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,056E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,014E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,975E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k158-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,772E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,729E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,151E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>6E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,37E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,17E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,604E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,504E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k158-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,127E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>6,522E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,176E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,683E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,074E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,068E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,924E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k159-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,661E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,043E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,296E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,623E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>9,299E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,347E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,409E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k159-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,9E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,779E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,342E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,997E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,349E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,574E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,604E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,609E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k160-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,979E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,69E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,771E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,943E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,984E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,585E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,204E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k160-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,7E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,049E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,324E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,182E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,949E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>8,03E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,049E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,945E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k168-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,546E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,091E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,907E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,189E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,744E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,201E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,739E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k168-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,569E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,545E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,028E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,171E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,958E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,298E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,124E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k168-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,3E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,99E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,049E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,391E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,338E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,151E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,546E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,793E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k168-04 (1).mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,506E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,236E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,04E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,928E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,367E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,075E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,915E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k168-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,506E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,236E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,04E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,928E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,367E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,075E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,915E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k169-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,2E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,921E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,2E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,132E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,296E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,628E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,601E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>4,419E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k169-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,18E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,925E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>1,9E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,02E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,59E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,2E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,421E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k169-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,073E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,476E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,282E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,214E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,082E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,966E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>4,003E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k170-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,092E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,487E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,812E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,916E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>9,839E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>9,251E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,262E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k170-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,799E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,167E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,292E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,429E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,405E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,511E-3</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,604E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k170-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,2E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,99E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,375E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,485E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,146E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,08E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,954E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>4,362E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k171-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,073E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>6,954E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,073E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,658E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,453E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,409E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,218E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k171-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,121E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,551E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,793E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,004E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,688E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,717E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,236E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k171-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,692E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,899E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,07E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,028E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,125E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,874E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k171-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,3E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,548E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,618E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,056E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,663E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,69E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,614E-3</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,856E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k172-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,27E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,421E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,408E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,546E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,309E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,512E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,069E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k172-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,992E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,537E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,249E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,74E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,403E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,911E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,316E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k172-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,963E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,436E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,36E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,317E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,4E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,692E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,757E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k173-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,17E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>6,937E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,298E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,169E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,33E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,407E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,301E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k173-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,678E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,429E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,061E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,097E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,405E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,848E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,598E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k285-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,18E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,529E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,386E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,483E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,61E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,142E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,644E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k298-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,918E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,831E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,089E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,508E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,892E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,148E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,92E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k370-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,3E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,661E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,826E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,965E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,681E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,069E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,61E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,409E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k387-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,2E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,533E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,693E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,665E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,741E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,228E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,399E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>4,304E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k421-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,3E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,803E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,322E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,777E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,014E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,159E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,272E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,977E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k428-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,666E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,111E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,189E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,787E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,407E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,343E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,396E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k458-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,898E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,98E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,374E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,926E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,815E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,366E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,59E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k458-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,683E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,261E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,049E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,894E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,253E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,086E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>8,712E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k465-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,681E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>8,882E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,391E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,3E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,422E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,388E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,725E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k465-02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,3E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,89E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>6,359E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,202E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,922E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,913E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,233E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,443E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k465-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,5E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,288E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,481E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,567E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,449E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,176E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,148E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,384E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k465-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,3E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,877E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,713E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,404E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,632E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,929E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,339E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,917E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k499-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,7E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,727E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,537E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,767E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,87E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,777E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,189E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,765E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k499-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,7E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,692E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,535E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,625E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,106E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,186E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,454E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,956E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k499-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,6E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,668E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,147E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>2,648E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,991E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,865E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,954E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,243E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\k589-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,735E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,514E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,201E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,356E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,569E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,886E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,833E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\sonata01-1.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,7E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,926E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,756E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,155E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,872E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,012E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,828E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,597E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\sonata01-2.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,56E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3,942E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,077E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,31E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>9,191E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,55E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\sonata02-3.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,6E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>2,062E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,043E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,208E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,33E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,846E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,767E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,349E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\sonata03-3.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,637E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>9,112E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>4,181E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,06E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,283E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,17E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,727E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\sonata07-1.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,8E1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1,677E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>7,243E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability After Folding</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Melodic Intervals</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,535E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,493E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,259E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,143E0</v>
+		</feature>
+	</data_set>
+
+</feature_vector_file>

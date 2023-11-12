@@ -1,0 +1,2527 @@
+<?xml version="1.0"?>
+<!DOCTYPE feature_vector_file [
+   <!ELEMENT feature_vector_file (comments, data_set+)>
+   <!ELEMENT comments (#PCDATA)>
+   <!ELEMENT data_set (data_set_id, section*, feature*)>
+   <!ELEMENT data_set_id (#PCDATA)>
+   <!ELEMENT section (feature+)>
+   <!ATTLIST section start CDATA ""
+                     stop CDATA "">
+   <!ELEMENT feature (name, v+)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT v (#PCDATA)>
+]>
+
+<feature_vector_file>
+
+   <comments></comments>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Mozart MIDI\sonata07-1.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,982E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,596E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,562E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,535E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,493E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,259E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,143E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv0253.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,1E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,805E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,359E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,313E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,25E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>7,71E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,25E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,979E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv0330.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,9E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,661E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,502E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,717E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,453E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,193E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,74E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv0377.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,347E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,243E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,422E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7,354E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,133E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,25E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>7,213E-1</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv0565.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,014E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,314E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,444E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,424E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,624E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,477E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,003E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv1007-01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,1E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,5E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,489E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,485E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,135E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,37E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv1011-03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>2,9E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,778E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,406E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,4E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,024E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>8,491E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,429E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv1011-04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>2,7E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,889E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,526E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,14E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,488E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,724E-1</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv1047a.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>6,7E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,697E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,419E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,051E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,199E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,831E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,524E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>5,211E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv1047b.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,5E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,909E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,376E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,541E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,448E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,433E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,857E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>8,162E-1</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv1047c.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>6,7E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,578E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,399E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,832E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,064E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,996E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,282E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>6,689E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\bwv1048a.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,587E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,431E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,131E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,198E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,569E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,94E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>6,083E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\chor-185.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,118E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,399E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,779E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,583E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,411E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,344E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\chor006.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,465E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>8,029E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>3,226E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,667E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\chor160.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,3E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,375E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,666E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,106E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>4,878E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,332E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\chor198.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,9E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,814E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,449E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,347E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,985E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,918E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\inven01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,855E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,515E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,23E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,291E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,743E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,773E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\inven02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,7E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,424E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,37E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,635E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,057E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,453E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\inven05.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,806E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,376E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,555E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,68E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,749E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,329E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\mo12.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,537E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,428E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,975E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,579E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,689E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,202E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,084E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\mo13.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,749E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,446E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,908E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,495E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,6E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>9,324E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,931E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\mo15.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>5,1E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,392E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,967E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,722E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>3,047E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,074E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3,677E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1f02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,504E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,445E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>3,427E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7,5E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,448E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,944E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,986E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1f10.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,871E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,464E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,772E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,941E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,486E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,861E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1p01.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,646E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,454E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,654E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,596E-2</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,023E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,407E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,04E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1p02.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,956E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,314E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E1</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>7,431E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>1,244E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>8,98E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,877E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1p03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>7,294E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,315E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>5,041E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>1,919E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,838E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>6,698E-1</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1p04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,439E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,412E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,534E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,555E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,333E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,297E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>6,882E-1</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1p05.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,245E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,341E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,019E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,796E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,283E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,992E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1p07.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,198E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,374E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,937E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,379E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,726E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,24E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,823E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc1p12.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,278E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,449E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,471E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,853E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,945E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>9,412E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,266E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f05.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,3E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,441E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,425E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,202E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,562E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,425E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,245E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,009E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f08.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,244E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,312E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>3,52E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7,522E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,456E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,004E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,59E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f09.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,649E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,336E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>3,07E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7,547E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,793E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,615E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,401E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f10.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,309E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,412E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>3,233E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7,292E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,978E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,092E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,117E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f11.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,722E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,402E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,921E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7,317E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,726E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,833E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,577E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f12.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,133E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,44E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,54E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,122E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,948E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,414E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,833E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f13.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,108E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,497E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,696E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,946E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,738E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,31E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,74E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f14.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,596E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,448E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,67E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,285E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,592E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,85E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,02E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f15.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,7E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,145E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>9E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,506E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,152E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,513E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,445E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,344E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,241E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f16.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,731E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,507E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,621E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,039E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,364E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>5,105E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,48E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f17.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,492E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,405E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,924E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,761E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,505E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,838E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,887E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f18.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,573E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,49E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>3,663E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7,045E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,839E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,115E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,347E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f21.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,414E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,257E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,465E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>3,115E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>6,744E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,218E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2f23.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,466E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2,829E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>6,608E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,74E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,793E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,907E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p03.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,3E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,11E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,382E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>6,322E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,031E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,349E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,045E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p04.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,729E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,302E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,392E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,177E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,603E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,015E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,656E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p06.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,534E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,365E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>7,756E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,424E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,955E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,469E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p08.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,423E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,328E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,274E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,915E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,427E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,943E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p16.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,4E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,652E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,373E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,298E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,861E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,316E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,222E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,621E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p19.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,5E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,643E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,363E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>9,898E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,563E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,145E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>8,052E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>7,964E-1</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p20.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,6E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,643E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,537E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,736E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,209E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1,93E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,269E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p22.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,89E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,457E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>9,457E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2,558E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,542E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>7,176E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,358E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p23.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,812E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,446E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,405E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,994E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,749E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,328E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2,497E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\wtc2p24.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>4,3E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,105E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,353E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,534E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3,365E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2,524E-1</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,252E-3</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,092E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\xxerk002.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,2E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>9,048E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,427E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2,4E1</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5,405E-2</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>9,589E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>2,941E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,181E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>C:\Users\arnar\OneDrive\Desktop\HR-verkefni\Gagnanám og Vitvélar\Research project\Bach MIDI\xxerk191.mid</data_set_id>
+		<feature>
+			<name>Range</name>
+			<v>3,8E1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8,904E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variability</name>
+			<v>3,55E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1,601E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>4,128E-1</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>7,836E-2</v>
+		</feature>
+		<feature>
+			<name>Diminished and Augmented Triads</name>
+			<v>1,562E-2</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>1,525E0</v>
+		</feature>
+	</data_set>
+
+</feature_vector_file>
