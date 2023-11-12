@@ -16,7 +16,8 @@ df = pd.read_csv('AllData.csv', delimiter=';',dtype = object)
 data = df.to_numpy(dtype=float)
 targets = data[:,0]
 classes = np.unique(targets, return_counts=False)
-features = data[:,1:]
+# features = data[:,1:]
+features = data[:,2:] #Remove Range featuer
 # print(features)
 
 
@@ -154,8 +155,9 @@ class ComposerClassTrainer:
             split_train_test(features, targets, train_ratio)
 
         self.classes = classes
+        # self.tree = DecisionTreeClassifier()
         self.tree = DecisionTreeClassifier(max_depth=3,min_samples_split=5,min_samples_leaf=5)
-
+ 
     def train(self):
         self.tree.fit(self.train_features, self.train_targets)
 
@@ -168,8 +170,9 @@ class ComposerClassTrainer:
     def plot(self):
         plt.figure(figsize=(20, 10))  # Adjust the figure size as needed
         plot_tree(self.tree, filled=True,
-                  class_names=["Bach","Beethoven","Mozart"],
-                  feature_names=list(df.columns[1:]))
+                class_names=["Bach","Beethoven","Mozart"],
+                #   feature_names=list(df.columns[1:]))
+                feature_names=list(df.columns[2:]))
         plt.show()
     def guess(self):
         # Make predictions on the test data features
@@ -194,7 +197,5 @@ class ComposerClassTrainer:
 dt = ComposerClassTrainer(features, targets, classes=classes)
 dt.train()
 print(f'The accuracy is: {dt.accuracy()}')
-print(f'I guessed: {dt.guess()}')
-print(f'The true targets are: {dt.test_targets}')
 print(dt.confusion_matrix())
 dt.plot()
